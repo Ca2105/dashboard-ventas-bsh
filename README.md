@@ -95,9 +95,8 @@ Después, carga los 4 CSV de `data/` en Power BI (o en un Lakehouse de Fabric), 
 
 ## 🔗 Enlaces
 
-- **LinkedIn:** [Claudio Abreu Afonso](https://www.linkedin.com/in/claudioabreuafonso/)
-- **Otros proyectos:** [github.com/Ca2105](https://github.com/Ca2105)
-
----
+- **Caso de estudio en Notion:** [Ver documentación](...)
+- **LinkedIn:** [Claudio Abreu Afonso](...)
+- **Otros proyectos:** [github.com/Ca2105](...)
 
 **Autor:** Claudio Abreu Afonso · Data Analyst Jr.
