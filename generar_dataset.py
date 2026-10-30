@@ -6,6 +6,8 @@ Uso: python generar_dataset.py
 import numpy as np, pandas as pd
 rng = np.random.default_rng(42)
 out = "data/"
+import os
+os.makedirs(out, exist_ok=True)
 
 # Productos
 cats = {  # categoria: precio base Bosch
