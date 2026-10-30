@@ -1,0 +1,55 @@
+id_producto,marca,categoria,gama,modelo,pvp,coste_unitario
+P001,Balay,Lavadoras,Básica,BAL-LAV-B01,349.0,280.48
+P002,Balay,Lavadoras,Media,BAL-LAV-M02,419.0,330.24
+P003,Balay,Lavadoras,Alta,BAL-LAV-A03,529.0,408.1
+P004,Balay,Frigoríficos,Básica,BAL-FRI-B04,579.0,453.26
+P005,Balay,Frigoríficos,Media,BAL-FRI-M05,639.0,513.1
+P006,Balay,Frigoríficos,Alta,BAL-FRI-A06,879.0,680.69
+P007,Balay,Lavavajillas,Básica,BAL-LAV-B07,379.0,295.86
+P008,Balay,Lavavajillas,Media,BAL-LAV-M08,429.0,350.22
+P009,Balay,Lavavajillas,Alta,BAL-LAV-A09,589.0,486.61
+P010,Balay,Hornos,Básica,BAL-HOR-B10,329.0,260.6
+P011,Balay,Hornos,Media,BAL-HOR-M11,379.0,306.51
+P012,Balay,Hornos,Alta,BAL-HOR-A12,529.0,410.72
+P013,Balay,Placas de inducción,Básica,BAL-PLA-B13,289.0,236.49
+P014,Balay,Placas de inducción,Media,BAL-PLA-M14,329.0,272.21
+P015,Balay,Placas de inducción,Alta,BAL-PLA-A15,429.0,338.49
+P016,Balay,Secadoras,Básica,BAL-SEC-B16,409.0,315.73
+P017,Balay,Secadoras,Media,BAL-SEC-M17,469.0,378.85
+P018,Balay,Secadoras,Alta,BAL-SEC-A18,639.0,523.11
+P019,Bosch,Lavadoras,Básica,BOS-LAV-B19,429.0,322.38
+P020,Bosch,Lavadoras,Media,BOS-LAV-M20,509.0,376.56
+P021,Bosch,Lavadoras,Alta,BOS-LAV-A21,699.0,510.3
+P022,Bosch,Frigoríficos,Básica,BOS-FRI-B22,739.0,562.57
+P023,Bosch,Frigoríficos,Media,BOS-FRI-M23,879.0,643.18
+P024,Bosch,Frigoríficos,Alta,BOS-FRI-A24,1129.0,861.09
+P025,Bosch,Lavavajillas,Básica,BOS-LAV-B25,479.0,369.6
+P026,Bosch,Lavavajillas,Media,BOS-LAV-M26,539.0,420.18
+P027,Bosch,Lavavajillas,Alta,BOS-LAV-A27,779.0,576.54
+P028,Bosch,Hornos,Básica,BOS-HOR-B28,419.0,307.19
+P029,Bosch,Hornos,Media,BOS-HOR-M29,479.0,357.27
+P030,Bosch,Hornos,Alta,BOS-HOR-A30,619.0,478.57
+P031,Bosch,Placas de inducción,Básica,BOS-PLA-B31,359.0,269.87
+P032,Bosch,Placas de inducción,Media,BOS-PLA-M32,419.0,307.59
+P033,Bosch,Placas de inducción,Alta,BOS-PLA-A33,569.0,424.92
+P034,Bosch,Secadoras,Básica,BOS-SEC-B34,519.0,395.35
+P035,Bosch,Secadoras,Media,BOS-SEC-M35,579.0,436.45
+P036,Bosch,Secadoras,Alta,BOS-SEC-A36,799.0,603.64
+P037,Siemens,Lavadoras,Básica,SIE-LAV-B37,589.0,421.7
+P038,Siemens,Lavadoras,Media,SIE-LAV-M38,639.0,455.68
+P039,Siemens,Lavadoras,Alta,SIE-LAV-A39,879.0,606.76
+P040,Siemens,Frigoríficos,Básica,SIE-FRI-B40,929.0,634.48
+P041,Siemens,Frigoríficos,Media,SIE-FRI-M41,1109.0,782.53
+P042,Siemens,Frigoríficos,Alta,SIE-FRI-A42,1509.0,1086.45
+P043,Siemens,Lavavajillas,Básica,SIE-LAV-B43,579.0,419.54
+P044,Siemens,Lavavajillas,Media,SIE-LAV-M44,729.0,511.97
+P045,Siemens,Lavavajillas,Alta,SIE-LAV-A45,929.0,650.24
+P046,Siemens,Hornos,Básica,SIE-HOR-B46,499.0,343.42
+P047,Siemens,Hornos,Media,SIE-HOR-M47,609.0,430.65
+P048,Siemens,Hornos,Alta,SIE-HOR-A48,809.0,559.98
+P049,Siemens,Placas de inducción,Básica,SIE-PLA-B49,449.0,325.41
+P050,Siemens,Placas de inducción,Media,SIE-PLA-M50,519.0,348.92
+P051,Siemens,Placas de inducción,Alta,SIE-PLA-A51,759.0,522.21
+P052,Siemens,Secadoras,Básica,SIE-SEC-B52,649.0,436.03
+P053,Siemens,Secadoras,Media,SIE-SEC-M53,799.0,548.9
+P054,Siemens,Secadoras,Alta,SIE-SEC-A54,1049.0,748.64
